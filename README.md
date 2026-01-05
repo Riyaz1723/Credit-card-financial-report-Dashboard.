@@ -1,34 +1,43 @@
 
 # Credit Card Financial Report Dashboard 
 
-This Power BI dashboard provides insights into credit card transactions, revenue trends, and customer spending patterns.  
+# Credit Card Financial Report Dashboard
 
-## 📌 Project Overview
-- *Objective:* Analyze credit card usage and financial performance.
-- *Tool Used:* Power BI
-- *Key Features:*
-  - Transaction volume by month
-  - Revenue breakdown by category
-  - Customer segmentation analysis
-  - KPIs with interactive filters
+## Project Overview
+This project presents a financial analysis dashboard for credit card transactions.
+The objective is to analyze customer spending behavior, revenue trends, and key
+financial metrics to support business decision-making.
 
-## 📷 Dashboard Preview
-(Add a screenshot of your dashboard here if possible!)
+## Business Objectives
+- Monitor total revenue and transaction volume
+- Identify high-spending customer segments
+- Analyze monthly and category-wise spending trends
+- Support strategic decisions for credit card products
 
-## 🗂 Files in This Repository
-- Credit-Card-Financial-Report-Dashboard.pbix → Power BI dashboard file  
-- Dataset.csv (if applicable) → Source data for the dashboard  
+## Dataset
+- Credit card transaction data
+- Includes customer details, transaction amount, category, and date
 
-## 🚀 How to Use
-1. Download the .pbix file from this repo.
-2. Open it in *Power BI Desktop*.
-3. Interact with the visuals and filters.
+## Tools Used
+- SQL / PostgreSQL
+- Power BI / Dashboard Tool
+- Excel
 
-## 📈 Insights
-- Monthly transactions show a steady growth trend.
-- Category X contributes the highest revenue.
-- 20% of customers drive 80% of revenue (Pareto Analysis).
+## Key KPIs
+- Total Revenue
+- Average Transaction Value
+- Monthly Revenue Trend
+- Category-wise Spending
+- Customer Segmentation
 
----
+## Key Insights
+- A small percentage of customers contribute to a large share of revenue
+- Spending is higher in specific categories such as travel and retail
+- Transaction volume increases during certain months
+
+## Conclusion
+This dashboard helps financial institutions understand customer behavior,
+optimize credit card offerings, and improve revenue strategies.
+
 
 💡 *Feel free to fork this repo, suggest improvements, or use it for learning Power BI.
