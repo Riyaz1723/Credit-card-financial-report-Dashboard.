@@ -1,6 +1,4 @@
 
-# Credit Card Financial Report Dashboard 
-
 # Credit Card Financial Report Dashboard
 
 ## Project Overview
